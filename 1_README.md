@@ -20,7 +20,9 @@ terrafrom apply
 <img width="937" height="336" alt="3" src="https://github.com/user-attachments/assets/ef655343-ad76-4086-b1f1-8286a336094b" />
 
 Добавление форка https://github.com/aragastmatb/example-teamcity.git в GitFlic
-![TeamcityAddFork](./pictures/0_Gitflic_Fork_Repo.png)
+
+<img width="1127" height="370" alt="4" src="https://github.com/user-attachments/assets/9d4019b8-f38a-49bc-9e63-bbbea3b0ce9c" />
+
 
 ### Nexus
 

@@ -19,7 +19,7 @@
 
 ![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-02-hw.png)
 
-Запустил [playbook](./infrastructure).
+Запустил [playbook]
 
 ![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-04-hw.png)
 

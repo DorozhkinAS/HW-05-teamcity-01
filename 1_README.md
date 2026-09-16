@@ -9,13 +9,15 @@
 ``` bash
 terrafrom apply
 ```
-![PrepareTeamcity](./pictures/0_Teamcity_Terraform_Apply.png)
+<img width="843" height="661" alt="1" src="https://github.com/user-attachments/assets/a6c35a02-35c6-41cb-a194-ab3ff5743227" />
 
 Веб браузер http://<IP_Teamcity_Server>:8111
-![TeamcityFirst](./pictures/0_Teamcity_First_Start.png)
+
+<img width="1053" height="527" alt="2" src="https://github.com/user-attachments/assets/0e899d09-02e5-414f-abb0-0eecff160bad" />
 
 Добавление агента:
-![TeamcityAddAgent](./pictures/0_Add_Agent.png)
+
+<img width="937" height="336" alt="3" src="https://github.com/user-attachments/assets/ef655343-ad76-4086-b1f1-8286a336094b" />
 
 Добавление форка https://github.com/aragastmatb/example-teamcity.git в GitFlic
 ![TeamcityAddFork](./pictures/0_Gitflic_Fork_Repo.png)

@@ -51,7 +51,9 @@
 2. Сделал autodetect конфигурации.
 3. Сохранил необходимые шаги, запустил первую сборку master. Сборка прошла успешно:
 
-![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-05-hw.png)
+
+<img width="1041" height="497" alt="10" src="https://github.com/user-attachments/assets/d6316a9c-8c03-47e0-97f0-0f51f9d91007" />
+
 
 4. Поменял условия сборки: если сборка по ветке `master`, то должен происходит `mvn clean deploy`, иначе `mvn clean test`:
 

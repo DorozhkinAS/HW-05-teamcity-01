@@ -51,21 +51,19 @@
 2. Сделал autodetect конфигурации.
 3. Сохранил необходимые шаги, запустил первую сборку master. Сборка прошла успешно:
 
-
 <img width="1041" height="497" alt="10" src="https://github.com/user-attachments/assets/d6316a9c-8c03-47e0-97f0-0f51f9d91007" />
-
 
 4. Поменял условия сборки: если сборка по ветке `master`, то должен происходит `mvn clean deploy`, иначе `mvn clean test`:
 
-![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-06-hw.png)
+<img width="958" height="656" alt="11" src="https://github.com/user-attachments/assets/3cd2273a-b058-4d33-8700-69ae9334dc98" />
 
 5. Для deploy загрузил [settings.xml](./teamcity/settings.xml) в набор конфигураций maven у teamcity, предварительно записав туда креды для подключения к nexus:
 
-![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-07-hw.png)
+<img width="989" height="472" alt="12" src="https://github.com/user-attachments/assets/0e6553bc-b8a4-4676-bcc7-4f523af0b3c4" />
 
 6. В pom.xml поменял ссылки на репозиторий и nexus:
 
-![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-08-hw.png)
+<img width="573" height="156" alt="13" src="https://github.com/user-attachments/assets/f72ece42-d165-426f-a5e1-b9f0fbb263d3" />
 
 7. Запустил сборку по master, убедился, что всё прошло успешно и артефакт появился в nexus:
 

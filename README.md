@@ -67,37 +67,37 @@
 
 7. Запустил сборку по master, убедился, что всё прошло успешно и артефакт появился в nexus:
 
-![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-09-hw.png)
+<img width="583" height="504" alt="20" src="https://github.com/user-attachments/assets/961043b4-fa0a-48f2-870c-22361b3b9f5c" />
 
 8. Мигрировал `build configuration` в репозиторий:
 
-![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-095-hw.png)
+<img width="737" height="475" alt="21" src="https://github.com/user-attachments/assets/35fc8c5a-831d-48bc-97d2-ca61fd3ca7dc" />
 
-![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-096-hw.png)
+<img width="701" height="447" alt="22" src="https://github.com/user-attachments/assets/f7cf2382-931d-4f2a-abbc-7c99d3805a4d" />
 
 9. Создал отдельную ветку `feature/add_reply` в репозитории.
 10. Написал новый метод для класса Welcomer: метод возвращает произвольную реплику, содержащую слово `hunter`:
 
-![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-10-hw.png)
+<img width="682" height="466" alt="23" src="https://github.com/user-attachments/assets/02cd3e7b-1ae3-4d92-9256-cd83d494085a" />
 
 11. Дополнил тест для нового метода на поиск слова `hunter` в новой реплике:
 
-![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-11-hw.png)
+<img width="667" height="586" alt="24" src="https://github.com/user-attachments/assets/91ec591d-0d16-4a7e-9991-e6155048e4aa" />
 
 12. Сделал push всех изменений в новую ветку репозитория.
 13. Убедился, что сборка самостоятельно запустилась, тесты прошли успешно:
 
-![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-12-hw.png)
+<img width="795" height="394" alt="25" src="https://github.com/user-attachments/assets/76f374c8-55cd-4703-9408-26a9bf4bcd02" />
 
 14. Сделал `Merge` ветки `feature/add_reply` в `master`.
 
-![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-13-hw.png)
+<img width="824" height="105" alt="26" src="https://github.com/user-attachments/assets/c14d511e-bad1-4830-ab9d-24468e626d82" />
 
 15. Убедитесь, что нет собранного артефакта в сборке по ветке `master`.
 16. Настройте конфигурацию так, чтобы она собирала `.jar` в артефакты сборки.
 17. Провел повторную сборку мастера, но к сожалению сборка не прошла успешно и артефакты не собраны. Пробовал изменить версию в `pom.xml` на 0.0.2, но это не помогло. Все равно сборка не прошла:
 
-![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-14-hw.png)
+<img width="716" height="283" alt="27" src="https://github.com/user-attachments/assets/9f1df2a6-a71b-4186-96b5-854b7e9cd6a8" />
 
 19. В ответе пришлите ссылку на репозиторий.
 

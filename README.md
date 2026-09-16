@@ -101,7 +101,7 @@
 
 19. В ответе пришлите ссылку на репозиторий.
 
-https://github.com/artmur1/example-teamcity прислать ссылку на мой репозиторий
+(https://github.com/DorozhkinAS/HW-05-teamcity-01/blob/main/README.md) 
 
 ---
 

@@ -13,15 +13,15 @@
 
 Создал три ВМ в соответствии с заданием:
 
-![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-01-hw.png)
+<img width="1192" height="273" alt="1" src="https://github.com/user-attachments/assets/6e881a52-9949-4724-8177-c9e4fddde92e" />
 
 Авторизовал агент:
 
-![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-02-hw.png)
+<img width="1266" height="384" alt="2" src="https://github.com/user-attachments/assets/6c3c8272-4e3d-4f25-be59-85718c50a973" />
 
 Запустил [playbook]
 
-![alt text](https://github.com/artmur1/19-05-teamcity-hw/blob/main/img/19-05-01-04-hw.png)
+<img width="901" height="436" alt="3" src="https://github.com/user-attachments/assets/136cee8f-c4ed-4cc7-9e5b-0433311c2837" />
 
 ## Основная часть
 
